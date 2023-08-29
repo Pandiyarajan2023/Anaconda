@@ -1,0 +1,16 @@
+body{
+    
+    background: url(https://cdn.pixabay.com/photo/2015/02/15/09/33/news-636978_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 105em;
+}
+h1,p{
+    text-align: center;
+    color:crimson;
+    font-size: 3em;
+    
+}
+a:hover {
+    background-color: yellow;
+    }
+
